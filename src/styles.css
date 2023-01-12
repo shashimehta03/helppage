@@ -1,0 +1,206 @@
+.img {
+  position: absolute;
+  width: 1900px;
+  height: 253px;
+  left: 0px;
+  top: 111px;
+
+  background: #151d56;
+}
+.line {
+  position: absolute;
+  width: 1440px;
+  height: 0px;
+  left: 0px;
+  top: 556px;
+
+  border: 1px solid #d9d9d9;
+  transform: rotate(-0.08deg);
+}
+/*.fatline{
+position: absolute;
+width: 113px;
+height: 0px;
+left: 214px;
+top: 556px;
+
+border: 7px solid #000000;
+} */
+.mock {
+  position: absolute;
+  width: 192px;
+  height: 22px;
+  left: 174px;
+  top: 512px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.1em;
+
+  color: #787373;
+}
+.gp {
+  position: absolute;
+  width: 229px;
+  height: 22px;
+  left: 461px;
+  top: 512px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.1em;
+
+  color: #787373;
+}
+.coursera {
+  position: absolute;
+  width: 192px;
+  height: 22px;
+  left: 786px;
+  top: 512px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.1em;
+
+  color: #787373;
+}
+.outlook {
+  position: absolute;
+  width: 192px;
+  height: 22px;
+  left: 1073px;
+  top: 512px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.1em;
+
+  color: #787373;
+}
+.allbox {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 553px;
+  height: 355px;
+  left: 137px;
+  top: 605px;
+
+  background: #fffdfd;
+  border: 1px solid #d9d9d9;
+  border-radius: 5px;
+}
+.allhalf {
+  position: absolute;
+  width: 553px;
+  height: 70px;
+  left: 137px;
+  top: 606px;
+
+  background: #d0e5f5;
+  border-radius: 5px;
+}
+.enroll {
+  position: absolute;
+  width: 509px;
+  height: 33px;
+  left: 159px;
+  top: 631px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+}
+.answer {
+  position: absolute;
+  width: 519px;
+  height: 261px;
+  left: 149px;
+  top: 684px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+
+  color: #434141;
+}
+.allbox2 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 553px;
+  height: 355px;
+  left: 750px;
+  top: 606px;
+
+  background: #fffdfd;
+  border: 1px solid #d9d9d9;
+  border-radius: 5px;
+}
+.allhalf2 {
+  position: absolute;
+  width: 553px;
+  height: 70px;
+  left: 750px;
+  top: 607px;
+
+  background: #d0e5f5;
+  border-radius: 5px;
+}
+.enroll2 {
+  position: absolute;
+  width: 509px;
+  height: 33px;
+  left: 772px;
+  top: 632px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+}
+.answer2 {
+  position: absolute;
+  width: 519px;
+  height: 261px;
+  left: 762px;
+  top: 685px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+
+  color: #434141;
+}
